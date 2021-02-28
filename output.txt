@@ -1,0 +1,329 @@
+AbusiveSergeant #SUP: 23
+AcolyteofPain #SUP: 24
+AncientofLore #SUP: 21
+AncientofLore Innervate #SUP: 17
+AncientofLore Shapeshift #SUP: 20
+AncientofLore Shapeshift Swipe #SUP: 18
+AncientofLore Swipe #SUP: 19
+AnimalCompanion #SUP: 34
+AnimalCompanion EaglehornBow #SUP: 17
+AnimalCompanion HauntedCreeper #SUP: 17
+AnimalCompanion KillCommand #SUP: 19
+AnimalCompanion SteadyShot #SUP: 28
+AntiqueHealbot #SUP: 19
+ArcaneIntellect #SUP: 30
+ArcaneIntellect Fireball #SUP: 18
+ArcaneIntellect Fireball Fireblast #SUP: 17
+ArcaneIntellect Fireball Frostbolt #SUP: 17
+ArcaneIntellect Fireblast #SUP: 29
+ArcaneIntellect Fireblast Frostbolt #SUP: 25
+ArcaneIntellect Frostbolt #SUP: 26
+ArchmageAntonidas #SUP: 21
+ArchmageAntonidas Fireblast #SUP: 19
+ArmorUp! #SUP: 19
+Avenge #SUP: 27
+Avenge NobleSacrifice #SUP: 21
+AzureDrake #SUP: 79
+AzureDrake BlackwingCorruptor #SUP: 18
+AzureDrake BlackwingCorruptor LesserHeal #SUP: 17
+AzureDrake DarnassusAspirant #SUP: 18
+AzureDrake DarnassusAspirant Shapeshift #SUP: 17
+AzureDrake Dr.Boom #SUP: 19
+AzureDrake ForceofNature #SUP: 17
+AzureDrake HolyNova LesserHeal #SUP: 17
+AzureDrake Innervate #SUP: 18
+AzureDrake LesserHeal #SUP: 26
+AzureDrake LesserHeal NorthshireCleric #SUP: 17
+AzureDrake LesserHeal PowerWord:Shield #SUP: 20
+AzureDrake LesserHeal PowerWord:Shield TwilightGuardian #SUP: 18
+AzureDrake LesserHeal TwilightGuardian #SUP: 20
+AzureDrake LesserHeal TwilightGuardian WyrmrestAgent #SUP: 17
+AzureDrake LesserHeal WyrmrestAgent #SUP: 18
+AzureDrake PilotedShredder #SUP: 27
+AzureDrake Shapeshift #SUP: 20
+AzureDrake Swipe #SUP: 17
+AzureDrake TheCoin #SUP: 27
+AzureDrake WildGrowth #SUP: 18
+Backstab #SUP: 26
+Backstab DaggerMastery #SUP: 24
+Backstab Eviscerate #SUP: 17
+BearTrap #SUP: 22
+BearTrap SteadyShot #SUP: 18
+BigGameHunter #SUP: 20
+BlackwingCorruptor #SUP: 30
+BlackwingCorruptor DarkCultist LesserHeal #SUP: 20
+BlackwingCorruptor HolyNova LesserHeal #SUP: 17
+BlackwingCorruptor LesserHeal #SUP: 27
+BlackwingCorruptor LesserHeal NorthshireCleric #SUP: 17
+BlackwingCorruptor LesserHeal PowerWord:Shield #SUP: 21
+BlackwingCorruptor LesserHeal PowerWord:Shield TwilightGuardian #SUP: 17
+BlackwingCorruptor LesserHeal PowerWord:Shield WyrmrestAgent #SUP: 17
+BlackwingCorruptor LesserHeal TwilightGuardian #SUP: 20
+BlackwingCorruptor LesserHeal TwilightGuardian WyrmrestAgent #SUP: 19
+BlackwingCorruptor LesserHeal TwilightWhelp #SUP: 17
+BlackwingCorruptor LesserHeal Velen'sChosen #SUP: 17
+BlackwingCorruptor LesserHeal WyrmrestAgent #SUP: 20
+BlackwingCorruptor TwilightGuardian #SUP: 21
+BlackwingTechnician #SUP: 20
+BlackwingTechnician LesserHeal #SUP: 19
+BloodmageThalnos #SUP: 26
+CabalShadowPriest LesserHeal #SUP: 25
+CabalShadowPriest LesserHeal PowerWord:Shield #SUP: 21
+CabalShadowPriest LesserHeal PowerWord:Shield TwilightGuardian #SUP: 17
+CabalShadowPriest LesserHeal TwilightGuardian #SUP: 19
+ClockworkGnome #SUP: 29
+ClockworkGnome Cogmaster Fireblast #SUP: 21
+ClockworkGnome Cogmaster Fireblast Snowchugger #SUP: 18
+ClockworkGnome Fireblast #SUP: 26
+ClockworkGnome Fireblast Frostbolt #SUP: 20
+ClockworkGnome Fireblast Snowchugger #SUP: 21
+ClockworkGnome Frostbolt #SUP: 22
+ClockworkGnome Mechwarper #SUP: 17
+ClockworkGnome UnstablePortal #SUP: 17
+Cogmaster #SUP: 29
+Cogmaster Fireblast #SUP: 26
+Cogmaster Fireblast Frostbolt #SUP: 19
+Cogmaster Fireblast Snowchugger #SUP: 22
+Cogmaster Mechwarper #SUP: 18
+Consecration Reinforce #SUP: 18
+DaggerMastery #SUP: 34
+DaggerMastery Eviscerate #SUP: 22
+DaggerMastery FanofKnives #SUP: 21
+DaggerMastery PilotedShredder #SUP: 19
+DarkCultist LesserHeal #SUP: 27
+DarkCultist HolyNova LesserHeal #SUP: 17
+DarkCultist LesserHeal PowerWord:Shield #SUP: 20
+DarkCultist LesserHeal WyrmrestAgent #SUP: 17
+DarnassusAspirant #SUP: 34
+DarnassusAspirant DruidoftheClaw Shapeshift #SUP: 17
+DarnassusAspirant Innervate Shapeshift #SUP: 20
+DarnassusAspirant Innervate Shapeshift Swipe #SUP: 18
+DarnassusAspirant KeeperoftheGrove Shapeshift #SUP: 22
+DarnassusAspirant KeeperoftheGrove PilotedShredder Shapeshift #SUP: 17
+DarnassusAspirant KeeperoftheGrove Shapeshift Swipe #SUP: 17
+DarnassusAspirant PilotedShredder #SUP: 22
+DarnassusAspirant PilotedShredder Shapeshift #SUP: 21
+DarnassusAspirant SavageRoar #SUP: 17
+DarnassusAspirant Shapeshift #SUP: 31
+DarnassusAspirant Shapeshift Swipe #SUP: 23
+DarnassusAspirant Shapeshift WildGrowth #SUP: 20
+DarnassusAspirant Shapeshift Wrath #SUP: 17
+DarnassusAspirant WildGrowth #SUP: 21
+Death'sBite #SUP: 17
+DefenderofArgus #SUP: 40
+DefenderofArgus NerubianEgg #SUP: 19
+DefenderofArgus PilotedShredder #SUP: 17
+Dr.Boom #SUP: 88
+Dr.Boom Fireblast #SUP: 18
+Dr.Boom IronbeakOwl #SUP: 17
+Dr.Boom Loatheb #SUP: 23
+Dr.Boom PilotedShredder #SUP: 36
+Dr.Boom SludgeBelcher #SUP: 28
+Dr.Boom TheCoin #SUP: 41
+DruidoftheClaw Shapeshift #SUP: 23
+DruidoftheClaw PilotedShredder Shapeshift #SUP: 17
+DruidoftheClaw Shapeshift Swipe #SUP: 17
+EaglehornBow #SUP: 31
+EaglehornBow MadScientist #SUP: 21
+EaglehornBow MadScientist SteadyShot #SUP: 18
+EaglehornBow SteadyShot #SUP: 27
+EmperorThaurissan #SUP: 41
+Eviscerate #SUP: 23
+ExplosiveTrap #SUP: 22
+ExplosiveTrap SteadyShot #SUP: 17
+Fireball #SUP: 37
+Fireball Fireblast #SUP: 33
+Fireball Fireblast Frostbolt #SUP: 28
+Fireball Frostbolt #SUP: 30
+Fireball ManaWyrm #SUP: 17
+Fireblast #SUP: 68
+Fireblast Flamewaker #SUP: 19
+Fireblast Frostbolt #SUP: 51
+Fireblast Frostbolt MadScientist #SUP: 19
+Fireblast Frostbolt ManaWyrm #SUP: 25
+Fireblast Frostbolt Mechwarper #SUP: 18
+Fireblast Frostbolt PilotedShredder #SUP: 20
+Fireblast Frostbolt Snowchugger #SUP: 25
+Fireblast Frostbolt Snowchugger UnstablePortal #SUP: 17
+Fireblast Frostbolt TheCoin #SUP: 19
+Fireblast Frostbolt UnstablePortal #SUP: 25
+Fireblast GoblinBlastmage #SUP: 17
+Fireblast MadScientist #SUP: 25
+Fireblast ManaWyrm #SUP: 30
+Fireblast ManaWyrm Snowchugger #SUP: 18
+Fireblast Mechwarper #SUP: 23
+Fireblast Mechwarper Snowchugger #SUP: 19
+Fireblast MirrorEntity #SUP: 19
+Fireblast PilotedShredder #SUP: 26
+Fireblast PilotedShredder UnstablePortal #SUP: 18
+Fireblast Snowchugger #SUP: 32
+Fireblast Snowchugger SpiderTank #SUP: 17
+Fireblast Snowchugger UnstablePortal #SUP: 20
+Fireblast SpiderTank #SUP: 19
+Fireblast TheCoin #SUP: 22
+Fireblast UnstablePortal #SUP: 32
+Flamewaker #SUP: 20
+ForceofNature #SUP: 21
+ForceofNature Shapeshift #SUP: 19
+FreezingTrap #SUP: 18
+Frostbolt #SUP: 53
+Frostbolt GoblinBlastmage #SUP: 17
+Frostbolt MadScientist #SUP: 20
+Frostbolt Mechwarper #SUP: 20
+Frostbolt TheCoin #SUP: 20
+Frostbolt UnstablePortal #SUP: 26
+GoblinBlastmage #SUP: 20
+HauntedCreeper #SUP: 75
+HauntedCreeper IronbeakOwl #SUP: 18
+HauntedCreeper KnifeJuggler #SUP: 20
+HauntedCreeper NerubianEgg #SUP: 21
+HauntedCreeper PilotedShredder #SUP: 31
+HauntedCreeper SludgeBelcher #SUP: 17
+HauntedCreeper SteadyShot #SUP: 24
+HauntedCreeper TheCoin #SUP: 18
+HolyNova LesserHeal #SUP: 31
+HolyNova LesserHeal NorthshireCleric #SUP: 18
+HolyNova LesserHeal PowerWord:Shield #SUP: 25
+HolyNova LesserHeal PowerWord:Shield TwilightGuardian #SUP: 20
+HolyNova LesserHeal PowerWord:Shield TwilightGuardian WyrmrestAgent #SUP: 18
+HolyNova LesserHeal ShadowWord:Death #SUP: 17
+HolyNova LesserHeal TwilightGuardian #SUP: 21
+HolyNova LesserHeal TwilightGuardian WyrmrestAgent #SUP: 19
+HolyNova LesserHeal Velen'sChosen #SUP: 17
+ImpGangBoss #SUP: 18
+ImpGangBoss LifeTap #SUP: 17
+Innervate #SUP: 32
+Innervate KeeperoftheGrove Shapeshift #SUP: 23
+Innervate KeeperoftheGrove Shapeshift Swipe #SUP: 19
+Innervate KeeperoftheGrove Shapeshift Wrath #SUP: 17
+Innervate PilotedShredder #SUP: 22
+Innervate PilotedShredder Shapeshift #SUP: 21
+Innervate PilotedShredder Shapeshift Swipe #SUP: 17
+Innervate PilotedShredder Swipe #SUP: 18
+Innervate Shapeshift #SUP: 30
+Innervate Shapeshift Swipe #SUP: 25
+Innervate Shapeshift WildGrowth #SUP: 19
+Innervate Shapeshift Wrath #SUP: 18
+Innervate Swipe #SUP: 26
+Innervate WildGrowth #SUP: 20
+IronbeakOwl #SUP: 52
+IronbeakOwl Loatheb #SUP: 17
+IronbeakOwl SteadyShot #SUP: 24
+IronbeakOwl TheCoin #SUP: 24
+KeeperoftheGrove #SUP: 32
+KeeperoftheGrove PilotedShredder Shapeshift #SUP: 21
+KeeperoftheGrove ShadeofNaxxramas #SUP: 19
+KeeperoftheGrove ShadeofNaxxramas Shapeshift #SUP: 18
+KeeperoftheGrove Shapeshift #SUP: 31
+KeeperoftheGrove Shapeshift Swipe #SUP: 24
+KeeperoftheGrove Shapeshift WildGrowth #SUP: 20
+KeeperoftheGrove Shapeshift Wrath #SUP: 19
+KillCommand #SUP: 30
+KillCommand MadScientist #SUP: 20
+KillCommand MadScientist SteadyShot #SUP: 18
+KillCommand SteadyShot #SUP: 26
+King'sElekk #SUP: 20
+KnifeJuggler #SUP: 53
+KnifeJuggler Reinforce #SUP: 23
+KnifeJuggler SteadyShot #SUP: 21
+KnifeJuggler TheCoin #SUP: 17
+LeperGnome #SUP: 18
+LesserHeal #SUP: 56
+LesserHeal Lightbomb #SUP: 17
+LesserHeal NorthshireCleric #SUP: 31
+LesserHeal NorthshireCleric PowerWord:Shield #SUP: 23
+LesserHeal NorthshireCleric PowerWord:Shield TwilightGuardian WyrmrestAgent #SUP: 17
+LesserHeal NorthshireCleric PowerWord:Shield WyrmrestAgent #SUP: 18
+LesserHeal NorthshireCleric TheCoin #SUP: 18
+LesserHeal NorthshireCleric TwilightGuardian WyrmrestAgent #SUP: 18
+LesserHeal NorthshireCleric TwilightWhelp #SUP: 17
+LesserHeal NorthshireCleric Velen'sChosen #SUP: 18
+LesserHeal NorthshireCleric WyrmrestAgent #SUP: 20
+LesserHeal PowerWord:Shield #SUP: 39
+LesserHeal PowerWord:Shield ShadowWord:Death #SUP: 20
+LesserHeal PowerWord:Shield TheCoin #SUP: 21
+LesserHeal PowerWord:Shield TwilightGuardian #SUP: 25
+LesserHeal PowerWord:Shield TwilightGuardian WyrmrestAgent #SUP: 22
+LesserHeal PowerWord:Shield TwilightWhelp #SUP: 18
+LesserHeal PowerWord:Shield Velen'sChosen #SUP: 22
+LesserHeal PowerWord:Shield WyrmrestAgent #SUP: 24
+LesserHeal ShadowWord:Death #SUP: 26
+LesserHeal TheCoin #SUP: 28
+LesserHeal TheCoin WyrmrestAgent #SUP: 17
+LesserHeal TwilightGuardian #SUP: 30
+LesserHeal TwilightGuardian TwilightWhelp WyrmrestAgent #SUP: 17
+LesserHeal TwilightGuardian Velen'sChosen #SUP: 18
+LesserHeal TwilightGuardian Velen'sChosen WyrmrestAgent #SUP: 17
+LesserHeal TwilightGuardian WyrmrestAgent #SUP: 27
+LesserHeal TwilightWhelp #SUP: 22
+LesserHeal TwilightWhelp Velen'sChosen #SUP: 17
+LesserHeal Velen'sChosen #SUP: 27
+LesserHeal Velen'sChosen WyrmrestAgent #SUP: 19
+LesserHeal WyrmrestAgent #SUP: 30
+LifeTap #SUP: 33
+LifeTap MortalCoil #SUP: 17
+Loatheb #SUP: 65
+Loatheb PilotedShredder #SUP: 24
+Loatheb TheCoin #SUP: 20
+MadScientist #SUP: 62
+MadScientist SteadyShot #SUP: 29
+ManaWyrm #SUP: 32
+ManaWyrm UnstablePortal #SUP: 17
+Mechwarper #SUP: 32
+MirrorEntity #SUP: 26
+MusterforBattle #SUP: 32
+MusterforBattle Reinforce #SUP: 30
+MusterforBattle Reinforce ShieldedMinibot #SUP: 17
+NerubianEgg #SUP: 32
+NerubianEgg PilotedShredder #SUP: 18
+NobleSacrifice #SUP: 28
+NorthshireCleric #SUP: 33
+NorthshireCleric TwilightGuardian #SUP: 19
+PilotedShredder #SUP: 129
+PilotedShredder Reinforce #SUP: 19
+PilotedShredder Shapeshift #SUP: 28
+PilotedShredder Shapeshift Swipe #SUP: 21
+PilotedShredder Shapeshift WildGrowth #SUP: 19
+PilotedShredder SludgeBelcher #SUP: 24
+PilotedShredder Swipe #SUP: 22
+PilotedShredder TheCoin #SUP: 45
+PilotedShredder WildGrowth #SUP: 21
+QuickShot #SUP: 22
+QuickShot SteadyShot #SUP: 19
+Reinforce #SUP: 42
+Reinforce ShieldedMinibot #SUP: 21
+Reinforce TheCoin #SUP: 18
+Reinforce TruesilverChampion #SUP: 22
+RockbiterWeapon #SUP: 19
+SavageRoar #SUP: 21
+SavageRoar Shapeshift #SUP: 19
+ShadeofNaxxramas #SUP: 23
+ShadeofNaxxramas Shapeshift #SUP: 22
+Shapeshift #SUP: 45
+Shapeshift Swipe #SUP: 32
+Shapeshift Swipe WildGrowth #SUP: 17
+Shapeshift Swipe Wrath #SUP: 19
+Shapeshift WildGrowth #SUP: 26
+Shapeshift WildGrowth Wrath #SUP: 17
+Shapeshift Wrath #SUP: 25
+ShieldedMinibot #SUP: 23
+SludgeBelcher #SUP: 74
+SludgeBelcher TheCoin #SUP: 34
+SpiderTank #SUP: 23
+Stalagg #SUP: 17
+SteadyShot #SUP: 49
+SteadyShot UnleashtheHounds #SUP: 18
+Swipe #SUP: 33
+Swipe WildGrowth #SUP: 18
+SylvanasWindrunner #SUP: 29
+TheCoin #SUP: 144
+TheCoin TwilightGuardian #SUP: 17
+TotemicCall #SUP: 27
+TwilightGuardian #SUP: 32
+UnleashtheHounds #SUP: 21
+UnstablePortal #SUP: 35
+Velen'sChosen #SUP: 28
+WildGrowth #SUP: 29
+WildGrowth Wrath #SUP: 18
+Wrath #SUP: 26
+ZombieChow #SUP: 19

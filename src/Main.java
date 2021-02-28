@@ -1,9 +1,20 @@
 import java.io.*;
 import java.util.*;
 
-public class Test {
+/**
+ * In this class is handled the transformation from a Dataset of games to a Dataset of decks
+ * the dataset is saved in the file decks.txt
+ */
+public class Main {
+    /**
+     * Here are saved the queries from the all_absolute+.txt file
+     */
     private static List<String> queries;
 
+    /**
+     * Method that reads a file and save the queries in a List<String> queries
+     * @param file
+     */
     public static void read(String file) {
         try {
             File myObj = new File(file);
@@ -20,29 +31,9 @@ public class Test {
         }
     }
 
-    public static void writeTopReferences(Set<String> s) {
-        try {
-            FileWriter myWriter = new FileWriter("decks.txt");
-            myWriter.write("@CONVERTED_FROM_TEXT\n");
-            int i = 1;
-            for (String str : s) {
-                myWriter.write("@ITEM="+i+"="+str+"\n");
-                ++i;
-            }
-            myWriter.close();
-            System.out.println("Successfully wrote to the file.");
-        } catch (IOException e) {
-            System.out.println("An error occurred.");
-            e.printStackTrace();
-        }
-    }
-    /*
-    static Set<String> convertToSet(List<String> l) {
-        for ()
-    }
-*/
     public static void main(String[] args) {
         read("src/all_absolute+.txt");
+        //It will contain all the different cards
         Set<String> cards = new TreeSet<>();
         for (String s : queries) {
             String[] splited = s.split(" ");
@@ -50,15 +41,15 @@ public class Test {
             cards.add(card);
         }
         cards.remove("egin");
+        //The map will help converting the strings to integers
         Map<String, Integer> cardsMap = new HashMap<>();
         int i = 1;
         for (String str : cards) {
             cardsMap.put(str, i);
             ++i;
         }
-        writeTopReferences(cards);
-        //faire une liste de game
         int currentGame = 0;
+        //we make a list of games where each game is represented as a list of cards played
         List<List<String>> games = new ArrayList<>();
         List<String> game = new ArrayList<>();
         for (String s : queries) {
@@ -74,7 +65,8 @@ public class Test {
             }
         }
 
-        //pour chaque game faire deux listes : un deck par joueur
+        //For each game we make 2 decks representing each player
+        //then we add them into the list decks that represents all the decks
         List<Set<String>> decks = new ArrayList<>();
         for (List<String> l : games) {
             Set<String> deckM = new TreeSet<>();
@@ -92,6 +84,7 @@ public class Test {
             decks.add(deckO);
         }
 
+        //here we have the decks of string that will be converted into deck of integers
         List<Set<Integer>> decksInt = new ArrayList<>();
         for (Set<String> set : decks) {
             Set<Integer> cardsInt = new TreeSet<>();
@@ -102,14 +95,14 @@ public class Test {
             decksInt.add(cardsInt);
         }
 
-        //On affiche
+        //we show the decks of the console, the same result will be written on the decks.txt file
         for (Set<Integer> set : decksInt) {
             for (int num : set) {
                 System.out.print(num+" ");
             }
             System.out.println();
         }
-        //On ecrit les decks dans le fichier
+        //we write the decks into the decks.txt file
         try {
             FileWriter myWriter = new FileWriter("decks.txt");
             myWriter.write("@CONVERTED_FROM_TEXT\n");
