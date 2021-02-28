@@ -43,7 +43,7 @@ public class Test {
 */
     public static void main(String[] args) {
         read("src/all_absolute+.txt");
-        Set<String> cards = new HashSet<>();
+        Set<String> cards = new TreeSet<>();
         for (String s : queries) {
             String[] splited = s.split(" ");
             String card = splited[1].substring(1);
@@ -77,8 +77,8 @@ public class Test {
         //pour chaque game faire deux listes : un deck par joueur
         List<Set<String>> decks = new ArrayList<>();
         for (List<String> l : games) {
-            Set<String> deckM = new HashSet<>();
-            Set<String> deckO = new HashSet<>();
+            Set<String> deckM = new TreeSet<>();
+            Set<String> deckO = new TreeSet<>();
             for (String s : l) {
                 if (s.charAt(0) == 'M') {
                     String str = s.substring(1);
@@ -94,7 +94,7 @@ public class Test {
 
         List<Set<Integer>> decksInt = new ArrayList<>();
         for (Set<String> set : decks) {
-            Set<Integer> cardsInt = new HashSet<>();
+            Set<Integer> cardsInt = new TreeSet<>();
             for (String s : set) {
                 int cardInt = cardsMap.get(s);
                 cardsInt.add(cardInt);

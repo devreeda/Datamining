@@ -75,10 +75,7 @@ public class AlgoLCM {
      * Run the algorithm
      * @param minimumSupport  the minimum support threshold as percentage value between 0 and 1
      * @param dataset  the dataset
-     * @param outputPath  the output file path to save the result or null if to be kept in memory
-     * @param mineAllFrequentItemsets mine all frequent itemsets
-     * @param mineAllMaximalItemsets mine only maximal itemsets
-         * @return the itemsets or null if the user choose to save to file
+     * @param outputPath  the output file path to save the result or null if to be kept in memory 	 * @return the itemsets or null if the user choose to save to file
      * @throws IOException if exception while reading/writing to file
      */
     public Itemsets runAlgorithm(double minimumSupport, Dataset dataset, String outputPath) throws IOException {
@@ -245,7 +242,6 @@ public class AlgoLCM {
     
     /**
      * Perform the anytime database reduction for an itemset P U {e}
-     * @param transactions the transactions
      * @param j the position of j in the list of frequent items
      * @param frequentItems 
      * @param itemset 
@@ -351,7 +347,6 @@ public class AlgoLCM {
      * @param p the itemset p
      * @param e the item e
      * @param transactionsPe  the transactions containing P U e
-     * @param previouslyAddedItem 
      * @return true if it is a PPC extension
      */
     private boolean isPPCExtension(List<Integer> p, List<Transaction> transactionsPe, Integer e) {

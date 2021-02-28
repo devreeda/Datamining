@@ -30,9 +30,9 @@ public class MainTestLCM_saveToMemory {
 
 		String input = fileToPath("decks.txt");
 		
-		double minsup = 0.4; // means a minsup of 2 transaction (we used a relative support)
+		double minsup = 0.08; // means a minsup of 2 transaction (we used a relative support)
 		Dataset dataset = new Dataset(input);
-		
+		//System.out.println(dataset);
 		// Applying the algorithm
 		AlgoLCM algo = new AlgoLCM();
 		// if true in next line it will find only closed itemsets, otherwise, all frequent itemsets
